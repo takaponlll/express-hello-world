@@ -13,7 +13,7 @@ const html = `
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Hello from Render!</title>
+    <title>tkp_sample-work</title>
     <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.5.1/dist/confetti.browser.min.js"></script>
     <script>
       setTimeout(() => {
@@ -54,7 +54,7 @@ const html = `
   </head>
   <body>
     <section>
-      レナチお待たせ！！
+      小池め！！
     </section>
   </body>
 </html>
